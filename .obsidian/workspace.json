@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2324e656c35b8d33",
+        "id": "1fab27506db7b4fd",
         "type": "tabs",
         "children": [
           {
-            "id": "3915c11b87dd2132",
+            "id": "26935baf312f4e6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "欢迎"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8aa47e4f7c95b9b8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9c09524676f3aca9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -90,7 +70,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "人C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "人C 的反向链接列表"
             }
           },
           {
@@ -129,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
+                "file": "人C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
+              "title": "人C 的出链列表"
             }
           },
           {
@@ -172,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "人C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "人C 的大纲"
             }
           }
         ]
@@ -196,11 +177,13 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3915c11b87dd2132",
+  "active": "d331ec5ffa5728a2",
   "lastOpenFiles": [
+    "人C.md",
     "欢迎.md"
   ]
 }
