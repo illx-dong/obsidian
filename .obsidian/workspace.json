@@ -166,12 +166,12 @@
               "title": "人C 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26935baf312f4e6f",
+  "active": "70d30bbf45744492",
   "lastOpenFiles": [
     "人C.md",
     "欢迎.md"
