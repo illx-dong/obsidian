@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70d30bbf45744492",
+  "active": "26935baf312f4e6f",
   "lastOpenFiles": [
     "人C.md",
     "欢迎.md"
