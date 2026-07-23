@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "deviceId": "81e50551-ba8f-4992-a8ff-3a479abed145",
+  "trackingEnabled": true,
+  "manuallyPaused": false,
+  "headerPopoverGrouping": "path",
+  "idleThresholdMs": 180000,
+  "recoveryLimitMs": 1800000,
+  "editSilenceMs": 15000,
+  "averageWindowDays": 30,
+  "rawRetentionDays": 90,
+  "maxChartItems": 8,
+  "excludedPathGlobs": [],
+  "retentionWatermark": null
+}
