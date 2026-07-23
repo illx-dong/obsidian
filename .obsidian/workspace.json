@@ -177,11 +177,10 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "bases:新建数据库": false
     }
   },
-  "active": "333d72a93a84b7a2",
+  "active": "26935baf312f4e6f",
   "lastOpenFiles": [
     "人C.md",
     "欢迎.md"
