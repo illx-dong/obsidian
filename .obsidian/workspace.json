@@ -11,14 +11,10 @@
             "id": "26935baf312f4e6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人C.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "人C"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e6690ec4f1e67473",
@@ -186,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26935baf312f4e6f",
+  "active": "333d72a93a84b7a2",
   "lastOpenFiles": [
     "人C.md",
     "欢迎.md"
